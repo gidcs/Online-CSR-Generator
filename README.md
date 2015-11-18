@@ -15,8 +15,11 @@ Environment:
 
 Installation
 -------
+### About LAMP
+	I think you can settle it by yourself :)
+	But, I will update this when I have free time. XD
 
-### About needed PEAR Packages
+### About PEAR Packages
 	pear install Mail
 	pear install Net_SMTP
 
